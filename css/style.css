@@ -83,7 +83,7 @@ ul.nav{
   background-color: #000;
 }
 li a.active{
-	color: #42b3e5 !important;
+	color: #c94444 !important;
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
@@ -118,7 +118,7 @@ li a.active{
 .carousel-caption button{
 	width: 240px;
 	height: 60px;
-	background: #3a9ecb;
+	background: #c94444;
 	color: #fff;
 	font-size: 30px;
 	text-transform: uppercase;
@@ -174,7 +174,7 @@ li a.active{
 /*about area*/
 .about h2{
 	font-size: 90px;
-	color: #42b3e5;
+	color: #c94444;
 	margin-top: 50px;
 }
 .about h4{
@@ -254,10 +254,10 @@ li a.active{
 	padding-bottom: 30px;
 }
 .single-about-detail:hover .about-details{
-	background: #3a9dca;
+	background: #c94444;
 }
 .single-about-detail:hover .pentagon-text h1{
-	color: #3a9dca;
+	color: #c94444;
 }
 
 
@@ -312,7 +312,7 @@ li a.active{
 }
 .team h2{
 	font-size: 90px;
-	color: #42b3e5;
+	color: #c94444;
 	margin-top: 50px;
 	margin-bottom: 0;
 }
@@ -331,7 +331,7 @@ li a.active{
 }
 .person-detail{
 	padding:10px;
-	background: #3a9cc8;
+	background: #c94444;
 	position: relative;
 	transition: all .7s ease 0s;
 	-webkit-transition: all .7s ease 0s;
@@ -343,7 +343,7 @@ li a.active{
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background: #3ba0cc;
+	background: #c94444;
 	transform:rotate(45deg);
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
@@ -361,7 +361,7 @@ li a.active{
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background: #3ba0cc;
+	background: #c94444;
 	transform:rotate(45deg);
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
@@ -397,7 +397,7 @@ li a.active{
 
 /*contact section*/
 .contact-caption{
-	background: #3a9dca;
+	background: #c94444;
 }
 .contact-heading h2{
 	color: #fff;
@@ -530,7 +530,7 @@ li a.active{
 	padding: 22px 10px;
 }
 .footer a i.fa:hover{
-	color: #42b3e5;
+	color: #c94444;
 }
 
 .carousel-inner{
@@ -759,7 +759,7 @@ responsive area
 	}
 	.about h2 {
 	  font-size: 50px;
-	  color: #42b3e5;
+	  color: #c94444;
 	  margin-top: 30px;
 	}
 	.service h2 {
